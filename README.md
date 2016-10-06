@@ -5,7 +5,7 @@ EasyMySQL is a wrapper for the .NET MySQL connector that simplifies the data sto
 Additional documentation for this library will be posted as it's development progresses!
 
 
-##How to use this wrapper
+##How to get started
 (1) Create a class that will hold all primitive and user-defined types and ensure the class is marked as serializable. Any additional nested classes will also need to be marked as serializable.
 
 (2) Create a MySQLConnection to later pass to the EasyMySQL initializer
