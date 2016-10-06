@@ -1,6 +1,7 @@
 # EasyMySQL
 EasyMySQL is a wrapper for the .NET MySQL connector that simplifies the data storage and retrieval process by saving and retrieving entire user-defined class types. This removes the need to manually get each field in a query column and should speed up the development process. Please note to use this libray, a reference to the MySQL.Data library is required (>v6.9.6.0)
 
+## UNDER CONSTRUCTION - Currently being developed
 Additional documentation for this library will be posted as it's development progresses!
 
 
